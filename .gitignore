@@ -1,0 +1,6 @@
+
+# EFGP 相关：凭证、登录态、个人偏好与过程快照
+.efgp/
+.playwright-cli/
+efgp/
+skills/t100-ui-test/
